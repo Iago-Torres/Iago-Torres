@@ -1,5 +1,5 @@
-# 💫 About Me:
-### 👨‍💻 I'm currently working on  <br>🚀 Building a mobile app that connects people with local service providers.  <br><br> 🤝 I'm looking to collaborate on  <br>💡 Open-source .NET or python projects and anything related to cross-platform apps.  <br><br>🛠️ I'm looking for help with  <br>🔧 Improving backend performance and learning advanced cloud deployment.  <br>
+# 💫 Sobre mim:
+### 👨‍💻 Estou trabalhando atualmente:  <br>🚀 Construir uma aplicação que une pessoas e prestadores de serviços de forma fácil  <br><br> 🤝 Procuro colabora em:  <br>💡 Open-source .NET ou projetos em python, no geral aplicações que atuam em diferentes plataformas  <br><br>🛠️ Procuro me especializar mais em:  <br>🔧 Melhorar meu conhecimento em back-end, aprimorar meus projetos e ajustar meus repositórios.  <br>
 
 
 # 💻 Tech Stack:
