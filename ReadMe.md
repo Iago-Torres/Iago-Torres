@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-### 👨‍💻 Estou trabalhando atualmente:  <br>🚀 Construir uma aplicação que une pessoas e prestadores de serviços de forma fácil  <br><br> 🤝 Procuro colabora em:  <br>💡 Open-source .NET ou projetos em python, no geral aplicações que atuam em diferentes plataformas  <br><br>🛠️ Procuro me especializar mais em:  <br>🔧 Melhorar meu conhecimento em back-end, aprimorar meus projetos e ajustar meus repositórios.  <br>
+### 👨‍💻 Estou trabalhando atualmente:  <br>🚀 Construir uma aplicação que está voltada para o gerenciamento de ordens de serviços e evidências  <br><br> 🤝 Procuro colaborar em:  <br>💡 Open-source .NET ou projetos em python, no geral aplicações que atuam em diferentes plataformas  <br><br>🛠️ Procuro me especializar mais em:  <br>🔧 Melhorar meu conhecimento em back-end, aprimorar meus projetos e ajustar meus repositórios.  <br>
 
 
 # 💻 Tecnologias que detenho conhecimento:
