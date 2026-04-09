@@ -10,7 +10,7 @@
 ![](https://github-readme-stats-sable-psi-71.vercel.app/api/top-langs/?username=Iago-Torres&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 Troféus do GitHub
-![](https://github-profile-trophy.vercel.app/?username=Iago-Torres&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats-sable-psi-71.vercel.app/?username=Iago-Torres&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
