@@ -1,21 +1,228 @@
-# 💫 Sobre mim:
-### 👨‍💻 Estou trabalhando atualmente:  <br>🚀 Construir uma aplicação que está voltada para o gerenciamento de ordens de serviços e evidências  <br><br> 🤝 Procuro colaborar em:  <br>💡 Open-source .NET ou projetos em python, no geral aplicações que atuam em diferentes plataformas  <br><br>🛠️ Procuro me especializar mais em:  <br>🔧 Melhorar meu conhecimento em back-end, aprimorar meus projetos e ajustar meus repositórios.  <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=600&size=30&letterSpacing=2px&pause=1000&color=1DCEF0F3&background=F8F6FF00&center=true&vCenter=true&random=true&width=435&lines=Iago+Torres+Limeira;Full+Stack+Developer)](https://git.io/typing-svg)
+
+# 👨‍💻 Sobre mim:
+
+    "sobre mim": {
+     "nome": "Iago", 
+     "função": "Desenvolvedor Full Stack",
+     "foco": "Aplicações e Desenvolvimento WEB",
+     "localização": "Brazil, Rio de Janeiro, Resende",
+     "resumo": "Desenvolvedor focado na construção de aplicações completas, desde a concepção até o deploy em produção, utilizando boas práticas e tecnologias modernas.",
+     "objetivo": "Aprofundar conhecimentos em arquitetura escalável e desenvolvimento de alto desempenho",
+    },
 
 
-# 💻 Tecnologias que detenho conhecimento:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 Status do GitHub:
-![](https://github-readme-stats-sable-psi-71.vercel.app/api?username=Iago-Torres&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats-sable-psi-71.vercel.app/?user=Iago-Torres&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-sable-psi-71.vercel.app/api/top-langs/?username=Iago-Torres&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## ⚙️ Backend:
 
-## 🏆 Troféus do GitHub
-![](https://github-readme-stats-sable-psi-71.vercel.app/?username=Iago-Torres&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<img
+align="left"
+alt="CSharp"
+title="CSharp"
+width="50px"
+style="padding right: 20px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img
+align="left"
+alt="DotNet Core"
+title="DotNet Core"
+width="50px"
+style="padding right: 20px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
+/>
+
+<img
+align="left"
+alt="Python"
+title="Python"
+width="50px"
+style="padding right: 20px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" 
+/>
+
+<img
+align="left"
+alt="MAUI"
+title="MAUI"
+width="50px"
+style="padding right: 20px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xamarin/xamarin-original.svg" 
+/>
+
+<br/>
+<br/>
+<br/>
+
+## 🖥️ FrontEnd:
+<img
+align="left"
+alt="React"
+title="React"
+width="50px"
+style="padding right: 20px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" 
+/>
+
+<img
+align="left"
+alt="Expo"
+title="Expo"
+width="50px"
+style="padding right: 20px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" 
+/>
+
+<img
+align="left"
+alt="TypeScript"
+title="TypeScript"
+width="50px"
+style="padding right: 20px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+<img
+align="left"
+alt="JavaScript"
+title="JavaScript"
+width="50px"
+style="padding right: 20px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img
+align="left"
+alt="CSS"
+title="CSS"
+width="50px"
+style="padding right: 20px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" 
+/>
+
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width="50px"
+style="padding right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" 
+/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## 🧰 Ferramentas de Programação:
+<img
+align="left"
+alt="Visual Studio"
+title="Visual Studio"
+width="50px"
+style="padding right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"
+/>
+
+<img
+align="left"
+alt="Visual Studio Code"
+title="Visual Studio Code"
+width="50px"
+style="padding right: 30px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<img
+align="left"
+alt="Docker"
+title="Docker"
+width="70px"
+style="padding right: 30px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
+<img
+align="left"
+alt="Railway"
+title="Railway"
+width="50px"
+style="padding right: 30px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg"
+/>
+<img
+align="left"
+alt="SupaBase"
+title="SupaBase"
+width="50px"
+style="padding right: 30px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
+/>
+<img
+align="left"
+alt="Vercel"
+title="Vercel"
+width="70px"
+style="padding right: 30px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"
+/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## 🗄️ Database:
+<img
+align="left"
+alt="SQL Server"
+title="SQL Server"
+width="50px"
+style="padding right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+/>
+
+<img
+align="left"
+alt="PostgreSQL"
+title="PostgreSQL"
+width="50px"
+style="padding right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## 🔄 Versionamento:
+
+<img
+align="left"
+alt="Git"
+title="Git"
+width="50px"
+style="padding right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"
+/>
+<br/>
+<img
+align="left"
+alt="GitHub"
+title="GitHub"
+width="50px"
+style="padding right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+#
+![](https://github-readme-stats-sable-psi-71.vercel.app/api?username=Iago-Torres&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-stats-sable-psi-71.vercel.app/api/top-langs/?username=Iago-Torres&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Iago-Torres&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
