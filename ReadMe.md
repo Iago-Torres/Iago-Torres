@@ -221,8 +221,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 
 
 #
-![](https://github-readme-stats-sable-psi-71.vercel.app/api?username=Iago-Torres&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-stats-extended.vercel.app/api?username=Iago-Torres&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats-sable-psi-71.vercel.app/api/top-langs/?username=Iago-Torres&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=Iago-Torres&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
